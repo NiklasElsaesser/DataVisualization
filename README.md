@@ -12,6 +12,9 @@ Containing two Projects which make up the course mark
 - [2. DataJournalism (Climate Change \& its Effects)](#2-datajournalism-climate-change--its-effects)
   - [Abstract](#abstract)
   - [Introduction](#introduction)
+  - [Materials and Methods](#materials-and-methods)
+    - [Energy Generation](#energy-generation)
+    - [The Energy (Electricity) Market](#the-energy-electricity-market)
   - [Analysis](#analysis)
     - [Datab](#datab)
     - [Visualization](#visualization)
@@ -37,10 +40,20 @@ The resulting Database from the project looked like this:
 
 # 2. DataJournalism (Climate Change & its Effects)
 ## Abstract
+The German Electricity and Power Market (Consumption) in transition to renewable Energies embedded in the European Energy Market.
+Der Deutsche Strom und Energiemarkt (Verbrauch) in der Trasition zu erneuerbaren Energien im europäischen Verbund!
 ## Introduction
-Climate Change is a serious problem with many different causes, which stand in different and sometimes stronger relationship to each other. This Report aims to shed some light on a choice of those causes like meat consumption its effect on Co2 and therefore climate change, the result wont be comprehensive nor conclusive!
+
 
 This Report only visualizes data, 
+
+## Materials and Methods
+### Energy Generation
+How does Energy Generation work (balance principle), only the amount of needed energy is produced so on and so forth
+### The Energy (Electricity) Market
+Germany is part of the European Energy Market, balance is extended over all participants (visual of all the participants)
+*Realization*: ...
+
 ## Analysis
 ### Datab
 ### Visualization

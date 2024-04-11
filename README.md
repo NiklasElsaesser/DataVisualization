@@ -40,8 +40,8 @@ The resulting Database from the project looked like this:
 
 # 2. DataJournalism (Climate Change & its Effects)
 ## Abstract
-The German Electricity and Power Market (Consumption) in transition to renewable Energies embedded in the European Energy Market.
-Der Deutsche Strom und Energiemarkt (Verbrauch) in der Trasition zu erneuerbaren Energien im europäischen Verbund!
+
+
 ## Introduction
 
 

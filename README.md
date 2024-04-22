@@ -12,6 +12,7 @@ Containing two Projects which make up the course mark
 - [2. DataJournalism (Climate Change \& its Effects)](#2-datajournalism-climate-change--its-effects)
   - [Abstract](#abstract)
   - [Introduction](#introduction)
+  - [Subject (Themenfindung)](#subject-themenfindung)
   - [Materials and Methods](#materials-and-methods)
     - [Energy Generation](#energy-generation)
     - [The Energy (Electricity) Market](#the-energy-electricity-market)
@@ -44,8 +45,10 @@ The resulting Database from the project looked like this:
 
 ## Introduction
 
+## Subject (Themenfindung)
+Electricity and especially the Power Grid is usually a Topic which is not natural to comprehend for humans, the Power Grid and the connected parts like Energy Companies with their power plants and and consumers have vital positions in the wake of energy change.
 
-This Report only visualizes data, 
+To shed some light onto this area, this Report aims to show the expansion of renewable energies and its effects on energy generation, the placement of power plants in germany (the distribution per state) as well as the effect on consumers in the various state in correlation with the amount of power plants.
 
 ## Materials and Methods
 ### Energy Generation

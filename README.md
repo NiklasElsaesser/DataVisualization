@@ -172,5 +172,16 @@ The "framework" from Bradshaw formulated in *The Online Journalism Handbook* and
 
 
 ## Citations
-
-
+[1]@Book{<br />
+title = {Digitaler Journalismus in der Praxis: Grundlagen von Onlinerecherche, Storytelling und Datenjournalismus},<br />
+editor = {Osing, Tim [Verfasser/in]},<br />
+publisher = {Springer VS},<br />
+year = {2022},<br />
+isbn = {9783658391058},<br />
+language = {Deutsch}<br />
+}<br />
+[A]-[SMARD](https://www.smard.de/page/home/marktdaten/78?marketDataAttributes=%7B%22resolution%22:%22hour%22,%22from%22:1713564000000,%22to%22:1714514399999,%22moduleIds%22:%5B5000410,6000411,1004066,1001226,1001225,1004067,1004068,1001228,1001224,1001223,1004069,1004071,1004070,1001227%5D,%22selectedCategory%22:5,%22activeChart%22:true,%22style%22:%22color%22,%22categoriesModuleOrder%22:%7B%7D,%22region%22:%22DE%22%7D), last Access: 30.04.2024<br />
+[B]-[ENTSO-E](https://www.entsoe.eu/data/power-stats/), last Access: 30.04.2024<br />
+[C]-[Bundesnetzagentur](https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Versorgungssicherheit/Erzeugungskapazitaeten/Kraftwerksliste/start.html), last Access: 30.04.2024 <br />
+[D]-[StromAuskunft](https://www.stromauskunft.de/stromversorger/), last Access: 30.04.2024 <br />
+[I.]-[ShapeFile for Map](https://github.com/stepheneb/jsxgraph/tree/master), last Access: 30.04.2024 <br />

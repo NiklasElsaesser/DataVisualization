@@ -1,0 +1,316 @@
+Kraftwerksname / Standort,Betreiber,Bundesland,Standort-PLZ,Kraftwerksstandort,Elektrische Bruttoleistung (MW),Anlagenart,Primärenergieträger,Latitude,Longitude,Type_Prod,Erzeuger
+Albatros,EnBW Albatros GmbH & Co. KG / Enbridge Inc.,Offshore,,Nordsee,112.0,WEA,Wind (O),54.49996044900345,6.400231636593729,Erneuerbar,EnBW
+Albbruck-Dogern / Rhein,Rheinkraftwerk Albbruck-Dogern AG / RWE Vertrieb AG,BW,79774.0,Albbruck,108.9,LWK,Wasser,47.5943254,8.1336893,Erneuerbar,RWE
+"Altbach/Deizisau GT A-C, E",EnBW Kraftwerke AG,BW,73776.0,Altbach,305.0,GT,Erdgas,48.7244372,9.3807848,Konventionell,EnBW
+Altbach/Deizisau HKW 1,EnBW Kraftwerke AG,BW,73776.0,Altbach,476.0,HKW,Steinkohle,48.7244372,9.3807848,Konventionell,EnBW
+Altbach/Deizisau HKW 2,EnBW Kraftwerke AG,BW,73776.0,Altbach,379.0,HKW (DT),Steinkohle,48.7244372,9.3807848,Konventionell,EnBW
+Alttrebbin,EnBW Solarpark GmbH / ALH-Gruppe,BB,15320.0,Neutrebbin,150.0,PV,Licht,52.6670589,14.2262364,Erneuerbar,EnBW
+Amrumbank West,RWE Renewables GmbH,Offshore,,Nordsee,302.0,WEA,Wind (O),54.49996259102901,7.799667403047954,Erneuerbar,RWE
+Arcadis Ost 1,Parkwind NV,Offshore,,Ostsee,256.5,WEA,Wind (O),54.79993194376447,13.683097262586784,Erneuerbar,Other
+Arkona,RWE Renewables GmbH / Equinor / Credit Suisse Energy,Offshore,,Ostsee,387.0,WEA,Wind (O),54.78193191346503,14.120839064432534,Erneuerbar,RWE
+Arneburg,SachsenFonds GmbH & Co. KG,ST,39596.0,Arneburg,118.5,WEA,Wind (L),52.674454,12.0035022,Erneuerbar,Other
+Arneburg,Zellstoff Stendal GmbH,ST,39596.0,Arneburg,147.7,HKW,Biomasse,52.674454,12.0035022,Erneuerbar,Other
+Bad Langensalza,EEV Erneuerbare Energien / Thüga Erneuerbare Energien,TH,99869.0,Nessetal,158.9,WEA,Wind (L),51.00984625,10.652023825751373,Erneuerbar,Other
+Baltic II (Kriegers Flak I),EnBW Baltic 2 GmbH & Co. KG,Offshore,,Ostsee,288.0,WEA,Wind (O),54.973290167502434,13.17761686444611,Erneuerbar,EnBW
+BARD Offshore,Ocean Breeze Energy GmbH & Co. KG,Offshore,,Nordsee,400.0,WEA,Wind (O),55.7326722,8.311128391226891,Erneuerbar,Other
+"Bedburg I+II, A44n",RWE Innogy GmbH / Stadt Bedburg / Breeze Two Energy GmbH / BMR energy solutions GmbH,NW,50181.0,Bedburg,119.7,WEA,Wind (L),50.9972161,6.5767648,Erneuerbar,RWE
+Bergkamen A,Steag GmbH,NW,59192.0,Bergkamen,780.0,DKW,Steinkohle,51.6149389,7.6362876,Konventionell,Other
+Berlin-Charlottenburg 4+5,Vattenfall Wärme Berlin AG,BE,10589.0,Berlin,146.0,G/AK,Erdgas,52.5170365,13.3888599,Konventionell,Vattenfall
+Berlin-Klingenberg DT 1-3,Vattenfall Wärme Berlin AG,BE,10317.0,Berlin,188.0,HKW,Erdgas,52.5170365,13.3888599,Konventionell,Vattenfall
+Berlin-Lichterfelde,Vattenfall Wärme Berlin AG,BE,12207.0,Berlin,315.0,GuD,Erdgas,52.5170365,13.3888599,Konventionell,Vattenfall
+Berlin-Marzahn,Vattenfall Wärme Berlin AG,BE,12861.0,Berlin,266.5,GuD,Erdgas,44.2100759,-72.6034049442611,Konventionell,Vattenfall
+Berlin-Mitte HKW GT 1,Vattenfall Wärme Berlin AG,BE,10179.0,Berlin,185.0,GuD,Erdgas,52.5170365,13.3888599,Konventionell,Vattenfall
+Berlin-Mitte HKW GT 2,Vattenfall Wärme Berlin AG,BE,10179.0,Berlin,185.0,GuD,Erdgas,52.5170365,13.3888599,Konventionell,Vattenfall
+Berlin-Mitte HKW DT,Vattenfall Wärme Berlin AG,BE,10179.0,Berlin,112.0,GuD,Erdgas,52.5170365,13.3888599,Konventionell,Vattenfall
+Berlin-Moabit A,Vattenfall Wärme Berlin AG,BE,13353.0,Berlin,100.0,HKW,Steinkohle,52.5170365,13.3888599,Konventionell,Vattenfall
+Berlin-Reuter-West D,Vattenfall Wärme Berlin AG,BE,13599.0,Berlin,300.0,HKW,Steinkohle,52.5170365,13.3888599,Konventionell,Vattenfall
+Berlin-Reuter-West E,Vattenfall Wärme Berlin AG,BE,13599.0,Berlin,300.0,HKW,Steinkohle,52.5170365,13.3888599,Konventionell,Vattenfall
+Bernburg,Solvay Chemicals GmbH,ST,6406.0,Bernburg,158.0,GuD / IKW,Erdgas,48.2053395,8.6398649,Konventionell,Other
+Bexbach,Steag Power Saar GmbH,SL,66450.0,Bexbach,780.0,DKW,Steinkohle,49.347299,7.2548948,Konventionell,Other
+Biblis,RWE Power AG,HE,68647.0,Biblis,427.9,GT,Erdgas,49.6879986,8.4534916,Konventionell,RWE
+Biere / Borne,WPD AG,ST,39221.0,Biere,108.9,WEA,Wind (L),51.9739339,11.6540252,Erneuerbar,Other
+Bitterfeld Chemiepark,envia THERM GmbH,ST,6749.0,Bitterfeld,114.0,GuD / IKW,Erdgas,51.5514579,7.5324668,Konventionell,Other
+Boitzenburger Land,SEBG Energiepark GmbH,BB,17268.0,Boitzenburger Land,180.3,PV,Licht,53.21410733010617,13.505241869146296,Erneuerbar,Other
+Bonn-Nord,Energie- und Wasserversorgung Bonn/Rhein-Sieg GmbH,NW,53115.0,Bonn,100.0,GuD,Erdgas,50.735851,7.10066,Konventionell,Other
+Borkum Riffgrund I,Ørsted Wind Power Germany GmbH / Greencoat Renewables,Offshore,,Nordsee,312.0,WEA,Wind (O),55.7326722,8.311128391226891,Erneuerbar,Other
+Borkum Riffgrund II,Ørsted Wind Power Germany GmbH / Global Infrastructure Partners (GIP) / Gulf Energy,Offshore,,Nordsee,464.8,WEA,Wind (O),55.7326722,8.311128391226891,Erneuerbar,Other
+Borkum West I,Trianel Windkraftwerk Borkum GmbH,Offshore,,Nordsee,200.0,WEA,Wind (O),55.7326722,8.311128391226891,Erneuerbar,Other
+Borkum West II,Trianel Windkraftwerk Borkum II GmbH & Co. KG / EWE AG / Elektrizitätswerk Zürich,Offshore,,Nordsee,203.2,WEA,Wind (O),55.7326722,8.311128391226891,Erneuerbar,Other
+Boxberg N,Lausitz Energie Kraftwerke AG (LEAG),SN,2943.0,Boxberg,500.0,DKW,Braunkohle,48.4733594,8.1514411,Konventionell,Other
+Boxberg P,Lausitz Energie Kraftwerke AG (LEAG),SN,2943.0,Boxberg,500.0,DKW,Braunkohle,48.4733594,8.1514411,Konventionell,Other
+Boxberg Q,Lausitz Energie Kraftwerke AG (LEAG),SN,2943.0,Boxberg,907.0,DKW,Braunkohle,48.4733594,8.1514411,Konventionell,Other
+Boxberg R,Lausitz Energie Kraftwerke AG (LEAG),SN,2943.0,Boxberg,675.0,DKW,Braunkohle,48.4733594,8.1514411,Konventionell,Other
+Braunau-Simbach / Inn,Grenzkraftwerke GmbH,BY,84359.0,Simbach am Inn,101.3,LWK,Wasser,48.2663113,13.0279972,Erneuerbar,Other
+Braunschweig-Mitte,Braunschweiger Versorgungs AG,NI,38106.0,Braunschweig,189.2,GuD / G/AK / HKW,"Erdgas, Biomasse",52.2646577,10.5236066,Konventionell,Other
+Bremen-Farge,Onyx Power GmbH (Riverstone Holdings LLC),HB,28777.0,Bremen,397.0,DKW,Steinkohle,53.0758196,8.8071646,Konventionell,Other
+Bremen-Hastedt,swb Erzeugung GmbH,HB,28207.0,Bremen,124.0,BHKW,Erdgas,53.0758196,8.8071646,Konventionell,Other
+Bremen-Mittelsbüren 4,swb Erzeugung GmbH,HB,28237.0,Bremen,160.0,DKW,Gichtgas,53.0758196,8.8071646,Konventionell,Other
+Bremen-Mittelsbüren (GKB),swb Erzeugung GmbH,HB,28237.0,Bremen,460.0,GuD,Erdgas,53.0758196,8.8071646,Konventionell,Other
+Bundorf,Max Solar GmbH / SÜDWERK GmbH / EnergieGenossenschaft Inn-Salzach eG,BY,97494.0,Bundorf,125.0,PV,Licht,50.215188,10.5233687,Erneuerbar,Other
+Burghausen,Kraftwerk Burghausen GmbH / Wacker Chemie AG,BY,84489.0,Burghausen,238.4,GuD,Erdgas,48.1689863,12.8304816,Konventionell,Other
+Butendiek,WPD AG / Greencoat Renewables,Offshore,,Nordsee,288.0,WEA,Wind (O),55.7326722,8.311128391226891,Erneuerbar,Other
+Calau,CEE Windpark Calau GmbH & Co. KG,BB,3205.0,Calau,100.0,WEA,Wind (L),51.73417755,13.988083853098262,Erneuerbar,Other
+Chemnitz Nord III,eins energie in sachsen GmbH & Co. KG,SN,9114.0,Chemnitz,100.0,GMA / Akku,"Erdgas, Batteriespeicher",50.85701771083883,12.922109358512987,Konventionell,Other
+Dahme,Windpark Dahme GmbH & Co. KG,BB,15926.0,Kemlitz,150.5,WEA,Wind (L),51.83490305,13.53129670636276,Erneuerbar,Other
+DanTysk,DanTysk Offshore Wind GmbH,Offshore,,Nordsee,302.0,WEA,Wind (O),55.7326722,8.311128391226891,Erneuerbar,Other
+Darmstadt,Entega AG,HE,64293.0,Darmstadt,100.0,GT,Erdgas,49.872775,8.651177,Konventionell,Other
+Datteln 4,Uniper SE,NW,45711.0,Datteln,1100.0,DKW,Steinkohle,51.651468,7.3385906,Konventionell,Eon
+Deutsche Bucht,Northland Power,Offshore,,Nordsee,277.2,WEA,Wind (O),55.7326722,8.311128391226891,Erneuerbar,Other
+Döllen,Solarpark Döllen GmbH / CEE Group,BB,16866.0,Gumtow,154.4,PV,Licht,52.9792807,12.2523998,Erneuerbar,Other
+Dormagen,RWE Power AG / Currenta GmbH,NW,41539.0,Dormagen,597.1,GuD / IKW,Erdgas,51.0941656,6.8407931,Konventionell,RWE
+Dörpen,UPM Nordland Papier GmbH,NI,26892.0,Dörpen,154.0,GuD / IKW,Erdgas,52.9661969,7.3290664,Konventionell,Other
+Dresden Nossener Brücke,DREWAG Stadtwerke Dresden GmbH,SN,1159.0,Dresden,270.0,GuD,Erdgas,51.04353621529555,13.710996724416384,Konventionell,Other
+Dresden-Reick,DREWAG Stadtwerke Dresden GmbH,SN,1067.0,Dresden,100.0,GMA / HKW,Erdgas,14.5659338,121.1040983,Konventionell,Other
+Druxberge,Umspannwerke Druxberge GmbH & Co. KG,ST,39365.0,Druxberge,116.7,WEA,Wind (L),52.156142,11.310094,Erneuerbar,Other
+Duben,Vattenfall / UKA / BKW FMB,BB,15926.0,Luckau,135.0,WEA,Wind (L),51.8524163,13.7150055,Erneuerbar,Vattenfall
+Duisburg-Hamborn 4,ThyssenKrupp Stahl AG (TKS),NW,47166.0,Duisburg,108.0,HKW / IKW,Gichtgas,51.434999,6.759562,Konventionell,Other
+Duisburg-Hamborn 5,RWE / TKS,NW,47166.0,Duisburg,240.7,HKW,Gichtgas,51.434999,6.759562,Konventionell,RWE
+Duisburg-Ruhrort 3,ThyssenKrupp Stahl AG (TKS),NW,47166.0,Duisburg,101.0,HKW / IKW,Gichtgas,51.434999,6.759562,Konventionell,Other
+Duisburg-Ruhrort 4,ThyssenKrupp Stahl AG (TKS),NW,47166.0,Duisburg,177.0,HKW / IKW,Gichtgas,51.434999,6.759562,Konventionell,Other
+Duisburg-Walsum 10,Steag GmbH,NW,47179.0,Duisburg,790.0,HKW,Steinkohle,51.434999,6.759562,Konventionell,Other
+Duisburg-Wanheim HKW III B,StW Duisburg,NW,47249.0,Duisburg,245.0,GuD,Erdgas,51.434999,6.759562,Konventionell,Other
+Düsseldorf-Holthausen,Henkel AG & Co. KGaA / BASF,NW,40589.0,Düsseldorf,118.4,GT / DT / HKW,"Erdgas, Steinkohle",51.2254018,6.7763137,Konventionell,Other
+Eisenhüttenstadt,VEO GmbH,BB,15890.0,Eisenhüttenstadt,170.0,HKW / IKW,Konvertergas,52.1448863,14.6294413,Konventionell,Other
+Emsland B (Lingen) DT,RWE Power AG,NI,49808.0,Lingen,372.6,GuD,Erdgas,52.5224659,7.316584,Konventionell,RWE
+Emsland B (Lingen) GT 1 u. 2,RWE Power AG,NI,49808.0,Lingen,120.0,GuD,Erdgas,52.5224659,7.316584,Konventionell,RWE
+Emsland C (Lingen) DT,RWE Power AG,NI,49808.0,Lingen,372.6,GuD,Erdgas,52.5224659,7.316584,Konventionell,RWE
+Emsland C (Lingen) GT 1 u. 2,RWE Power AG,NI,49808.0,Lingen,120.0,GuD,Erdgas,52.5224659,7.316584,Konventionell,RWE
+Emsland D (Lingen) DT,RWE Power AG,NI,49808.0,Lingen,345.1,GuD,Erdgas,52.5224659,7.316584,Konventionell,RWE
+Emsland D (Lingen) GT 1,RWE Power AG,NI,49808.0,Lingen,297.9,GuD,Erdgas,52.5224659,7.316584,Konventionell,RWE
+Emsland D (Lingen) GT 2,RWE Power AG,NI,49808.0,Lingen,297.9,GuD,Erdgas,52.5224659,7.316584,Konventionell,RWE
+Energiepark Lausitz (Klettwitz Nord+Süd),Lausitz Energie Kraftwerke AG (LEAG) / EP New Energies (EPNE),BB,1998.0,Schipkau,170.0,PV,Licht,51.535809065504765,13.867190672202955,Erneuerbar,Other
+Energiepark Lausitz (Klettwitz-Schipkau Nord+Süd),Klettwitz Green Energy (KGE) Windpark Schipkau GmbH & Co. KG,BB,1998.0,Klettwitz,205.3,WEA,Wind (L),51.535809065504765,13.867190672202955,Erneuerbar,Other
+Energiepark Witznitz,MOVE ON Energy GmbH / Hansainvest Real Assets,SN,4575.0,Neukieritzsch,650.0,PV,Licht,51.1502147,12.4090412,Erneuerbar,Other
+Erfurt-Ost,StW Erfurt (SWE),TH,99087.0,Erfurt,129.6,GuD,Erdgas,50.9777974,11.0287364,Konventionell,Other
+Erzhausen 1-4 / Leine,Statkraft Markets GmbH,NI,37574.0,Einbeck,222.9,PSW,Wasser,51.8185067,9.8678465,Erneuerbar,Other
+Esperstedt-Obhausen,HSE AG / N-ERGIE AG / StW Leipzig,ST,6279.0,Esperstedt,122.1,WEA,Wind (L),51.3475992,11.1782481,Erneuerbar,Other
+Fehmarn,Windpark Fehmarn GmbH,SH,23769.0,Fehmarn,170.2,WEA,Wind (L),54.4687375,11.134084837911692,Erneuerbar,Other
+Feldheim I-V,Energiequelle GmbH Windpark Feldheim KG,BB,14929.0,Feldheim,143.1,WEA,Wind (L),52.0110006,12.819423,Erneuerbar,Other
+Finsterwalde-Lichterfeld I-V,SILVINO GmbH / MITAB GmbH / LHI Solar GmbH / Blue Forrest Solar / IBC Solar AG,BB,3238.0,Finsterwalde,135.9,PV,Licht,53.1983282,7.083378,Erneuerbar,Other
+Flensburg K10 bis K13,StW Flensburg,SH,24939.0,Flensburg,241.4,GuD / HKW,"Erdgas, Steinkohle",54.7833021,9.4333264,Konventionell,Other
+Franken I-1 (Nürnberg),Uniper SE,BY,90449.0,Nürnberg,453.0,GuD,Erdgas,49.453872,11.077298,Konventionell,Eon
+Franken I-2 (Nürnberg),Uniper SE,BY,90449.0,Nürnberg,448.0,GuD,Erdgas,49.453872,11.077298,Konventionell,Eon
+Frankfurt-Höchst A u. B,InfraServ GmbH Hoechst KG,HE,65929.0,Frankfurt / M.,128.2,GuD / HKW,Erdgas,50.1106444,8.6820917,Konventionell,Other
+Frankfurt-Höchst C,InfraServ GmbH Hoechst KG,HE,65929.0,Frankfurt / M.,105.7,G/AK,Erdgas,50.1106444,8.6820917,Konventionell,Other
+Frankfurt-Höchst D u. E,InfraServ GmbH Hoechst KG,HE,65929.0,Frankfurt / M.,177.4,G/AK,Erdgas,50.1106444,8.6820917,Konventionell,Other
+Frankfurt-West 2 u. 3,Mainova AG,HE,60327.0,Frankfurt / M.,144.0,HKW,Steinkohle,50.1106444,8.6820917,Konventionell,Other
+Frankfurt-West 4 u. 5,Mainova AG,HE,60327.0,Frankfurt / M.,154.0,G/AK u. DT,Erdgas,50.1106444,8.6820917,Konventionell,Other
+Frechen / Wachtberg,RWE Power AG,NW,50226.0,Frechen,202.0,HKW / IKW,Braunkohle,50.9096219,6.8081935,Konventionell,RWE
+Gambsheim / Rhein,EnBW / EDF,BW,77866.0,Gambsheim,108.0,LWK,Wasser,48.68550247641455,7.91306548048917,Erneuerbar,EnBW
+Geesthacht A-C / Elbe,Vattenfall Wasserkraft GmbH,SH,21502.0,Geesthacht,120.0,PSW,Wasser,53.4374683,10.3678235,Erneuerbar,Vattenfall
+Gelsenkirchen-Scholven B,Uniper SE,NW,45896.0,Gelsenkirchen,370.0,DKW,Steinkohle,51.5110321,7.0960124,Konventionell,Eon
+Gelsenkirchen-Scholven C,Uniper SE,NW,45896.0,Gelsenkirchen,370.0,DKW,Steinkohle,51.5110321,7.0960124,Konventionell,Eon
+Gersteinwerk F (Werne),RWE Power AG,NW,59368.0,Werne/Lippe,444.0,GT / DT,Erdgas,51.660483,7.658548,Konventionell,RWE
+Gersteinwerk G (Werne),RWE Power AG,NW,59368.0,Werne/Lippe,444.0,GT / DT,Erdgas,51.660483,7.658548,Konventionell,RWE
+Gersteinwerk I (Werne),RWE Power AG,NW,59368.0,Werne/Lippe,444.0,GT / DT,Erdgas,51.660483,7.658548,Konventionell,RWE
+Gersteinwerk K1 (GT) (Werne),RWE Power AG,NW,59368.0,Werne/Lippe,112.0,GT,Erdgas,51.660483,7.658548,Konventionell,RWE
+GlobalTech 1,Global Tech I Offshore Wind GmbH,Offshore,,Nordsee,400.0,WEA,Wind (O),55.7326722,8.311128391226891,Erneuerbar,Other
+Gode Wind 1,Ørsted Wind Power Germany GmbH / GIP,Offshore,,Nordsee,330.0,WEA,Wind (O),55.7326722,8.311128391226891,Erneuerbar,Other
+Gode Wind 2,Ørsted Wind Power Germany GmbH,Offshore,,Nordsee,252.0,WEA,Wind (O),55.7326722,8.311128391226891,Erneuerbar,Other
+Goldisthal A / Schwarzatal,Vattenfall Wasserkraft GmbH,TH,98746.0,Goldisthal,265.0,PSW,Wasser,50.5187418,11.0045155,Erneuerbar,Vattenfall
+Goldisthal B / Schwarzatal,Vattenfall Wasserkraft GmbH,TH,98746.0,Goldisthal,265.0,PSW,Wasser,50.5187418,11.0045155,Erneuerbar,Vattenfall
+Goldisthal C / Schwarzatal,Vattenfall Wasserkraft GmbH,TH,98746.0,Goldisthal,265.0,PSW,Wasser,50.5187418,11.0045155,Erneuerbar,Vattenfall
+Goldisthal D / Schwarzatal,Vattenfall Wasserkraft GmbH,TH,98746.0,Goldisthal,265.0,PSW,Wasser,50.5187418,11.0045155,Erneuerbar,Vattenfall
+Gottesgabe,EnBW Solarpark GmbH / ALH-Gruppe,BB,15320.0,Neuhardenberg,150.0,PV,Licht,52.5965971,14.2383658,Erneuerbar,EnBW
+Grevenbroich - Neurath  D,RWE Power AG,NW,41517.0,Grevenbroich,647.0,DKW,Braunkohle,51.0905783,6.5835365,Konventionell,RWE
+Grevenbroich - Neurath  E,RWE Power AG,NW,41517.0,Grevenbroich,645.0,DKW,Braunkohle,51.0905783,6.5835365,Konventionell,RWE
+Grevenbroich - Neurath  F (BoA 2),RWE Power AG,NW,41517.0,Grevenbroich,1100.0,DKW,Braunkohle,51.0905783,6.5835365,Konventionell,RWE
+Grevenbroich - Neurath  G (BoA 3),RWE Power AG,NW,41517.0,Grevenbroich,1100.0,DKW,Braunkohle,51.0905783,6.5835365,Konventionell,RWE
+Großkayna 1-3,envia THERM GmbH,ST,6242.0,Großkayna,136.9,GT,HEL,51.29128,11.9361757,Konventionell,Other
+Halle Dieselstraße A-C,StW Halle GmbH,ST,6112.0,Halle (Saale),172.9,GuD,Erdgas,49.5188582,9.3067017,Konventionell,Other
+Hamburg-Tiefstack GuD,Vattenfall Europe GmbH,HH,22113.0,Hamburg,142.0,GuD,Erdgas,53.550341,10.000654,Konventionell,Vattenfall
+Hamburg-Tiefstack HKW,Vattenfall Europe GmbH,HH,22113.0,Hamburg,210.0,HKW,Steinkohle,53.550341,10.000654,Konventionell,Vattenfall
+Hamm-Uentrop 10,Trianel Gaskraftwerk Hamm GmbH & Co. KG,NW,59071.0,Hamm,445.0,GuD,Erdgas,51.6804093,7.815197,Konventionell,Other
+Hamm-Uentrop 20,Trianel Gaskraftwerk Hamm GmbH & Co. KG,NW,59071.0,Hamm,445.0,GuD,Erdgas,51.6804093,7.815197,Konventionell,Other
+Hannover-Linden,Enercity (StW Hannover) / Uniper SE,NI,30169.0,Hannover,255.0,GuD,Erdgas,52.3744779,9.7385532,Konventionell,Eon
+Hannover-Stöcken,"Enercity (StW Hannover), Continental, VWK",NI,30419.0,Hannover,300.0,HKW,Steinkohle,52.3744779,9.7385532,Konventionell,Other
+Häusern 1 bis 4,Schluchseewerk AG,BW,79837.0,Häusern,145.0,PSW,Wasser,47.7540444,8.1672955,Erneuerbar,Other
+Hausham GT 1 bis 4,Peißenberger Kraftwerks GmbH (PKG),BY,83734.0,Hausham,107.0,GT,HEL,47.7507322,11.8394101,Konventionell,Other
+Havelland,WPD AG,BB,14776.0,Havelland,171.9,WEA,Wind (L),52.3654614,12.7589946,Erneuerbar,Other
+Heilbronn 5,EnBW Kraftwerke AG,BW,74076.0,Heilbronn,137.0,DKW,Steinkohle,49.142291,9.218655,Konventionell,EnBW
+Heilbronn 6,EnBW Kraftwerke AG,BW,74076.0,Heilbronn,137.0,DKW,Steinkohle,49.142291,9.218655,Konventionell,EnBW
+Heilbronn 7,EnBW Kraftwerke AG,BW,74076.0,Heilbronn,822.0,HKW,Steinkohle,49.142291,9.218655,Konventionell,EnBW
+Herdecke H3 (Cuno),Mark-E AG / Statkraft,NW,58313.0,Herdecke,432.0,GuD,Erdgas,51.4001119,7.4330062,Konventionell,Other
+Herne 4,Steag GmbH / StW Herne,NW,44653.0,Herne,511.0,HKW,Steinkohle,51.5380394,7.219985,Konventionell,Other
+Herne 6,Steag GuD Herne GmbH / Siemens AG,NW,44653.0,Herne,650.0,GuD,Erdgas,51.5380394,7.219985,Konventionell,Other
+Heyden,Uniper SE,NW,32469.0,Petershagen,923.0,DKW,Steinkohle,52.3756616,8.9668368,Konventionell,Eon
+Hohe See,EnBW Hohe See GmbH & Co. KG / Enbridge Inc.,Offshore,,Nordsee,497.0,WEA,Wind (O),54.43321470436756,6.316859815972744,Erneuerbar,EnBW
+Hohenwarte II  A bis H,Vattenfall Wasserkraft GmbH,TH,7338.0,Hohenwarte,320.0,PSW,Wasser,50.60688417995047,11.47331103346306,Erneuerbar,Vattenfall
+Holtriem-Dornum,"Windpark Norderland, Dornum & Holtriem",NI,26556.0,Westerholt,167.0,WEA,Wind (L),53.5916548,7.4526483,Erneuerbar,Other
+Huckingen A,RWE Power AG / HKM GmbH,NW,47259.0,Huckingen,320.0,GuD,Gichtgas,51.3659376,6.7505523,Konventionell,RWE
+Huckingen B,RWE Power AG / HKM GmbH,NW,47259.0,Huckingen,320.0,GuD,Gichtgas,51.3659376,6.7505523,Konventionell,RWE
+Huntorf CAES,Uniper SE,NI,26931.0,Elsfleth,323.0,GT,"Erdgas, Druckluft",53.2357029,8.4571037,Konventionell,Eon
+Hüselitz I-III,Windpark Hüselitz GmbH,ST,39579.0,Hüselitz,151.2,WEA,Wind (L),52.5084944,11.808782,Erneuerbar,Other
+Iffezheim/ Rhein,Rheinkraftwerk Iffezheim GmbH (RKI),BW,76473.0,Iffezheim,152.0,LWK,Wasser,48.8209175,8.1421337,Erneuerbar,Other
+Ingolstadt 3 - Großmehring,Uniper SE,BY,85098.0,Großmehring,420.0,DKW,HS,48.7664732,11.5333568,Konventionell,Eon
+Ingolstadt 4 - Großmehring,Uniper SE,BY,85098.0,Großmehring,420.0,DKW,HS,48.7664732,11.5333568,Konventionell,Eon
+Irsching 3,Uniper SE,BY,85088.0,Vohburg,440.0,DKW,Erdgas,48.7672231,11.6239384,Konventionell,Eon
+Irsching 4,Uniper SE,BY,85088.0,Vohburg,578.0,GuD,Erdgas,48.7672231,11.6239384,Konventionell,Eon
+Irsching 5,"Uniper SE, N-Ergie, Mainova, Heag",BY,85088.0,Vohburg,876.0,GuD,Erdgas,48.7672231,11.6239384,Konventionell,Eon
+Irsching 6,Uniper SE,BY,85088.0,Vohburg,320.0,GT,Erdgas,48.7672231,11.6239384,Konventionell,Eon
+Jänschwalde A,Lausitz Energie Kraftwerke AG (LEAG),BB,3185.0,Peitz,535.0,DKW,Braunkohle,51.18200084936483,12.373288242109178,Konventionell,Other
+Jänschwalde B,Lausitz Energie Kraftwerke AG (LEAG),BB,3185.0,Peitz,535.0,DKW,Braunkohle,51.18200084936483,12.373288242109178,Konventionell,Other
+Jänschwalde C,Lausitz Energie Kraftwerke AG (LEAG),BB,3185.0,Peitz,535.0,DKW,Braunkohle,51.18200084936483,12.373288242109178,Konventionell,Other
+Jänschwalde D,Lausitz Energie Kraftwerke AG (LEAG),BB,3185.0,Peitz,535.0,DKW,Braunkohle,51.18200084936483,12.373288242109178,Konventionell,Other
+Jochenstein / Donau,Grenzkraftwerke GmbH,BY,94107.0,Untergriesbach,133.7,LWK,Wasser,48.5735316,13.6678774,Erneuerbar,Other
+Karlsruhe-RDK 4s,StW Karlsruhe / EnBW (Rheinhafen),BW,76189.0,Karlsruhe,363.5,GuD,Erdgas,49.01203544866294, 8.30302734002076,Konventionell,EnBW
+Karlsruhe-RDK 7,StW Karlsruhe / EnBW (Rheinhafen),BW,76189.0,Karlsruhe,550.0,HKW,Steinkohle,49.01203544866294, 8.303027340020769,Konventionell,EnBW
+Karlsruhe-RDK 8,StW Karlsruhe / EnBW (Rheinhafen),BW,76189.0,Karlsruhe,912.0,DKW,Steinkohle,49.01344029242536, 8.307201781722117,Konventionell,EnBW
+Kaskasi,RWE Innogy GmbH,Offshore,,Nordsee,342.0,WEA,Wind (O),54.48322108195728,7.683086533729101,Erneuerbar,RWE
+Kiel-Ost,Gemeinschaftskraftwerk Kiel GmbH,SH,24149.0,Kiel,200.0,GMA,Erdgas,54.3227085,10.135555,Erneuerbar,Other
+Kirchlengern 1 bis 4,Energieservice Westfalen-Weser GmbH (EWW),NW,32278.0,Kirchlengern,184.5,GuD / GT,Erdgas,52.1983452,8.6440034,Konventionell,Other
+Kirchmöser,Uniper SE,BB,14774.0,Brandenburg,184.0,GuD,Erdgas,52.435525600000005,12.453160619258137,Konventionell,Eon
+Knapsack - Hürth I,Knapsack Power GmbH & Co. KG / Statkraft Markets GmbH,NW,50354.0,Köln-Hürth,820.0,GuD,Erdgas,50.9346872,6.978983,Konventionell,Other
+Knapsack - Hürth II,Knapsack Power GmbH & Co. KG / Statkraft Markets GmbH,NW,50354.0,Köln-Hürth,450.0,GuD,Erdgas,50.9346872,6.978983,Konventionell,Other
+Köln (Ineos),Ineos Manufacturing Deutschland GmbH,NW,50769.0,Köln,106.5,G/AK,"HEL, Cracköl",50.938361,6.959974,Konventionell,Other
+Köln-Godorf,Shell Deutschland Oil GmbH,NW,50997.0,Köln,225.6,GuD / IKW,"Raffineriegas, HVR, Erdgas",50.938361,6.959974,Konventionell,Other
+Köln-Merkenich 4+6,RheinEnergie AG,NW,50769.0,Köln,103.3,SSA,"Braunkohle, Erdgas",50.938361,6.959974,Konventionell,Other
+Köln-Merkenich GuD,RheinEnergie AG,NW,50769.0,Köln,110.2,GuD,Erdgas,50.938361,6.959974,Konventionell,Other
+Köln-Niehl II,RheinEnergie AG,NW,50735.0,Köln,435.0,GuD,Erdgas,50.938361,6.959974,Konventionell,Other
+Köln-Niehl III,RheinEnergie AG,NW,50735.0,Köln,460.0,GuD,Erdgas,50.938361,6.959974,Konventionell,Other
+Koepchenwerk / Ruhr,RWE Power AG,NW,58313.0,Herdecke,165.0,PSW,Wasser,51.4001119,7.4330062,Erneuerbar,RWE
+Körbelitz I-III,Windpark Körbelitz GmbH & Co. KG,ST,39175.0,Körbelitz,134.0,WEA,Wind (L),52.1802945,11.7828777,Erneuerbar,Other
+Krefeld-Uerdingen N 230,Currenta GmbH & Co. OHG,NW,47829.0,Krefeld,116.0,SSA,"Steinkohle, Erdgas",51.3331205,6.5623343,Konventionell,Other
+Langenprozelten / Main,Uniper SE,BY,97737.0,Gemünden,168.4,PSW,Wasser,50.06447695,9.693375338654644,Erneuerbar,Eon
+Laufenburg / Rhein,Energiedienst AG (EnBW),BW,79725.0,Laufenburg (Baden),110.0,LWK,Wasser,47.5671976,8.0599414,Erneuerbar,EnBW
+Lausward A (Anton),StW Düsseldorf,NW,40221.0,Düsseldorf,114.0,GuD,Erdgas,51.2254018,6.7763137,Konventionell,Other
+Lausward E (Emil) GT 1+2,StW Düsseldorf,NW,40221.0,Düsseldorf,136.0,GT,"Erdgas, HEL",51.2254018,6.7763137,Konventionell,Other
+"Lausward F (""Fortuna"")",StW Düsseldorf,NW,40221.0,Düsseldorf,605.0,GuD,Erdgas,51.2254018,6.7763137,Konventionell,Other
+Leipheim,Gaskraftwerk Leipheim GmbH & Co. KG / Lausitz Energie Kraftwerke AG (LEAG) / Siemens AG,BY,89340.0,Leipheim,300.0,GT,Erdgas,48.4487175,10.2213539,Konventionell,Other
+Leipzig-Nord,StW Leipzig,SN,4105.0,Leipzig,186.7,GuD,Erdgas,51.35192878949588,12.377995010282218,Konventionell,Other
+Leipzig-Süd,StW Leipzig,SN,4279.0,Leipzig,133.6,G/AK,Erdgas,51.29677843977713,12.384005430622295,Konventionell,Other
+Leuna,TOTAL Raffinerie Mitteldeutschland GmbH / Raffinerie-Kraftwerks-Betriebs GmbH,ST,6237.0,Leuna,162.0,GuD / IKW,Raffineriegas,51.30285372928956,12.015963220459213,Konventionell,Other
+Leuna HKW I,InfraLeuna Energie GmbH / TOTAL Raffinerie GmbH,ST,6237.0,Leuna,178.0,GuD / IKW,Erdgas,51.30285372928956,12.015963220459213,Konventionell,Other
+Leuna HKW II,envia THERM GmbH / InfraLeuna GmbH,ST,6237.0,Leuna,142.0,GuD / IKW,Erdgas,51.30285372928956,12.015963220459213,Konventionell,Other
+Leverkusen G15/G19/G20/G22/X50,Currenta GmbH & Co. OHG,NW,51368.0,Leverkusen,244.1,SSA / IKW,"Erdgas, Steinkohle",51.3897686,11.9897471,Konventionell,Other
+Lichtenau,WINKRA Lichtenau Windpark GmbH / Asselner Windkraft GmbH / Lichtenauer Bürgerwind GmbH,NW,33165.0,Lichtenau,116.0,WEA,Wind (L),51.6166977,8.8999978,Erneuerbar,Other
+Lippendorf R,Lausitz Energie Kraftwerke AG (LEAG),SN,4575.0,Neukieritzsch,942.0,DKW,Braunkohle,51.1502147,12.4090412,Konventionell,Other
+Lippendorf S,EnBW Kraftwerke AG,SN,4575.0,Neukieritzsch,942.0,DKW,Braunkohle,51.1502147,12.4090412,Konventionell,EnBW
+Ludwigshafen-Mitte,BASF SE,RP,67056.0,Ludwigshafen,600.0,GuD / GT / IKW,Erdgas,47.8177978,9.056572,Konventionell,Other
+Ludwigshafen-Nord,BASF SE,RP,67056.0,Ludwigshafen,127.0,GuD / IKW,Erdgas,47.8177978,9.056572,Konventionell,Other
+Ludwigshafen-Süd,BASF SE,RP,67056.0,Ludwigshafen,422.5,GuD / IKW,Erdgas,47.8177978,9.056572,Konventionell,Other
+Lünen Stummhafen,Trianel Kohlekraftwerk Lünen GmbH,NW,44536.0,Lünen,820.0,HKW,Steinkohle,51.6142482,7.5228088,Konventionell,Other
+Mainz-Wiesbaden 2-1,Kraftwerke Mainz-Wiesbaden AG,RP,55120.0,Mainz,365.0,GuD,Erdgas,50.0012314,8.2762513,Konventionell,Other
+Mainz-Wiesbaden 3-1,Kraftwerke Mainz-Wiesbaden AG,RP,55120.0,Mainz,436.0,GuD,Erdgas,50.0012314,8.2762513,Konventionell,Other
+"Mainz-Wiesbaden GuD (""Block 5"")",Kraftwerke Mainz-Wiesbaden AG,RP,55120.0,Mainz,100.2,GMA,Erdgas,50.0012314,8.2762513,Konventionell,Other
+Mannheim 6,GKM,BW,68199.0,Mannheim,280.0,DKW,Steinkohle,49.4892913,8.4673098,Konventionell,Other
+Mannheim 7,GKM,BW,68199.0,Mannheim,475.0,HKW,Steinkohle,49.4892913,8.4673098,Konventionell,Other
+Mannheim 8,GKM,BW,68199.0,Mannheim,480.0,HKW,Steinkohle,49.4892913,8.4673098,Konventionell,Other
+Mannheim 9,GKM,BW,68199.0,Mannheim,911.0,HKW,Steinkohle,49.4892913,8.4673098,Konventionell,Other
+Marbach III,EnBW Kraftwerke AG,BW,71672.0,Marbach,365.0,GuD,HEL,48.92774965,9.230175166938215,Konventionell,EnBW
+Markersbach A,Vattenfall Wasserkraft GmbH,SN,8352.0,Markersbach,175.0,PSW,Wasser,50.8382842,13.9857526,Erneuerbar,Vattenfall
+Markersbach B,Vattenfall Wasserkraft GmbH,SN,8352.0,Markersbach,175.0,PSW,Wasser,50.8382842,13.9857526,Erneuerbar,Vattenfall
+Markersbach C,Vattenfall Wasserkraft GmbH,SN,8352.0,Markersbach,175.0,PSW,Wasser,50.8382842,13.9857526,Erneuerbar,Vattenfall
+Markersbach D,Vattenfall Wasserkraft GmbH,SN,8352.0,Markersbach,175.0,PSW,Wasser,50.8382842,13.9857526,Erneuerbar,Vattenfall
+Markersbach E,Vattenfall Wasserkraft GmbH,SN,8352.0,Markersbach,175.0,PSW,Wasser,50.8382842,13.9857526,Erneuerbar,Vattenfall
+Markersbach F,Vattenfall Wasserkraft GmbH,SN,8352.0,Markersbach,175.0,PSW,Wasser,50.8382842,13.9857526,Erneuerbar,Vattenfall
+Marl I+II,Infracor GmbH / Evonik Operations GmbH,NW,45772.0,Marl,198.9,HKW / GuD / IKW,"Steinkohle, Erdgas",51.6485843,7.0829054,Konventionell,Other
+Marl IV+V,Infracor GmbH / Evonik Operations GmbH,NW,45772.0,Marl,276.0,GuD / IKW,"Erdgas, LPG",51.6485843,7.0829054,Konventionell,Other
+Maxau,Stora Enso Maxau GmbH / Schwarz-Gruppe,BW,76187.0,Karlsruhe,166.9,HKW / GuD,"Biomasse, Erdgas",49.0508,8.524886,Konventionell,Other
+Medelby-Osterby,Bürgerwindpark im Kirchspiel Medelby GmbH & Co. KG,SH,27994.0,Medelby,100.0,WEA,Wind (L),54.8127115,9.1740386,Erneuerbar,Other
+Meerwind Süd/Ost,WindMW GmbH,Offshore,,Nordsee,288.0,WEA,Wind (O),55.7326722,8.311128391226891,Erneuerbar,Other
+Mehrum 3 (C),Kraftwerk Mehrum GmbH / EPH,NI,31249.0,Hohenhameln,750.0,DKW,Steinkohle,52.2576212,10.0660066,Konventionell,Other
+Merkur,Merkur Offshore GmbH / InfraRed Partners / DEME,Offshore,,Nordsee,396.0,WEA,Wind (O),55.7326722,8.311128391226891,Erneuerbar,Other
+München-Freimann,StW München,BY,80807.0,München,106.2,G/AK,Erdgas,48.1371079,11.5753822,Konventionell,Other
+München-Nord 2,StW München,BY,85774.0,Unterföhring,365.0,HKW,Steinkohle,48.1950385,11.6449251,Konventionell,Other
+München-Süd GuD 1,StW München,BY,81371.0,München,280.5,GuD,Erdgas,48.1371079,11.5753822,Konventionell,Other
+München-Süd GuD 2,StW München,BY,81371.0,München,429.0,GuD,Erdgas,48.1371079,11.5753822,Konventionell,Other
+Münster/Hafen I,StW Münster,NW,48155.0,Münster,104.0,GuD,Erdgas,51.9625101,7.6251879,Konventionell,Other
+Neuhardenberg,Solarhybrid AG / Enerparc AG,BB,15320.0,Neuhardenberg,145.0,PV,Licht,52.5965971,14.2383658,Erneuerbar,Other
+Niederaußem G,RWE Power AG,NW,50129.0,Bergheim,687.0,DKW,Braunkohle,50.9540457,6.6410004,Konventionell,RWE
+Niederaußem H,RWE Power AG,NW,50129.0,Bergheim,687.0,DKW,Braunkohle,50.9540457,6.6410004,Konventionell,RWE
+Niederaußem K (BoA 1) ,RWE Power AG,NW,50129.0,Bergheim,1012.0,DKW,Braunkohle,50.9540457,6.6410004,Konventionell,RWE
+Nordergründe,OWP Nordergründe GmbH & Co. KG / WPD AG,Offshore,,Nordsee,110.7,WEA,Wind (O),55.7326722,8.311128391226891,Erneuerbar,Other
+Nordsee 1,Northland Power / RWE Innogy,Offshore,,Nordsee,332.1,WEA,Wind (O),53.97845735776075,6.813366995623114,Erneuerbar,RWE
+Nordsee Ost,RWE Innogy GmbH,Offshore,,Nordsee,295.2,WEA,Wind (O),54.43340191724796,7.683022160713848,Erneuerbar,RWE
+Nürnberg - Sandreuth,N-ERGIE AG,BY,90441.0,Nürnberg,253.9,GuD,"Erdgas, Abfall, Biomasse",49.453872,11.077298,Konventionell,Other
+Obernburg,Kraftwerk Obernburg GmbH,BY,63906.0,Obernburg,110.0,GuD / IKW,Erdgas,49.82384645,9.12607666692147,Konventionell,Other
+Odervorland,MLK Consulting GmbH & Co. KG / Windpark Jacobsdorf GmbH & Co. KG,BB,15236.0,Jacobsdorf,110.4,WEA,Wind (L),52.3392261,14.3536714,Erneuerbar,Other
+Ostermarsch,Windpark Ostermarsch,NI,26506.0,Norden,104.5,WEA,Wind (L),53.5942039,7.2067435,Erneuerbar,Other
+Pforzheim,HKW Pforzheim GmbH,BW,75175.0,Pforzheim,120.2,GuD / GMA / HKW,"Erdgas, Biomasse",48.8908846,8.7029532,Konventionell,Other
+Plattling,Kraftwerk Plattling GmbH / Daimler AG,BY,94447.0,Plattling,127.0,GuD / IKW,Erdgas,48.7772562,12.8750665,Konventionell,Other
+Putlitz,WKN GmbH,BB,16949.0,Putlitz,139.0,WEA,Wind (L),53.2505941,12.0409827,Erneuerbar,Other
+Quierschied-Weiher,Steag Power Saar GmbH,SL,66287.0,Quierschied,724.0,DKW,Steinkohle,49.3260163,7.052847,Konventionell,Other
+Rastenberg-Olbersleben,EEV Erneuerbare Energien / Thüga Erneuerbare Energien / Boreas Energie / MVV Energie AG / HASPA Green GmbH,TH,99628.0,Olbersleben,137.1,WEA,Wind (L),51.147463,11.338683,Erneuerbar,Other
+Reisach 1 bis 3,Engie Deutschland AG,BY,92555.0,Trausnitz,106.9,PSW,Wasser,49.5213946,12.2628903,Erneuerbar,Other
+Reußenköge I-VIII,Bürgerwindpark Reußenköge GmbH & Co. KG,SH,25821.0,Reußenköge,332.6,WEA,Wind (L),54.6054055,8.919455119501784,Erneuerbar,Other
+RH2-WKA (Grapzow),WIND-WASSERSTOFF-projekt GmbH,MV,17089.0,Grapzow,144.0,WEA,Wind (L),53.7125469,13.2891498,Erneuerbar,Other
+Rheinberg,Solvay Chemicals GmbH,NW,47495.0,Rheinberg,139.0,HKW u. G/AK,"Steinkohle, Erdgas",51.5458979,6.6014097,Konventionell,Other
+Rheinfelden / Rhein,Energiedienst AG,BW,79618.0,Rheinfelden,116.0,LWK,Wasser,47.5605924,7.7861959,Erneuerbar,Other
+Riffgat,EWE AG / Enova Power GmbH,Offshore,,Nordsee,113.4,WEA,Wind (O),55.7326722,8.311128391226891,Erneuerbar,Other
+Rönkhausen 1 u. 2 / Glingetal,Mark-E AG / Enervie / StW Aachen,NW,57413.0,Finnentrop-Rönkh.,140.0,PSW,Wasser,51.21929304335223,7.988978573697513,Erneuerbar,Other
+Rostock,KNG mbH,MV,18147.0,Rostock,553.0,DKW,Steinkohle,54.0886707,12.1400211,Konventionell,Other
+Rostock-Marienehe I-III,StW Rostock AG,MV,18069.0,Rostock,114.0,GuD,Erdgas,54.0886707,12.1400211,Konventionell,Other
+Rüsselsheim,Konsortium Energieversorgung Opel OHG (KEO),HE,65428.0,Rüsselsheim,113.9,GuD / IKW,Erdgas,49.99174365,8.414271557989153,Konventionell,Other
+Saarbrücken-Römerbrücke,Energie SaarLorLux (ESLL),SL,66121.0,Saarbrücken,190.6,GuD / GMA,Erdgas,49.234362,6.996379,Konventionell,Other
+Säckingen 1 bis 4,Schluchseewerk AG,BW,79713.0,Bad Säckingen,370.0,PSW,Wasser,47.5525538,7.9495387,Erneuerbar,Other
+Salzgitter-Hallendorf AB,Salzgitter Flachstahl GmbH,NI,38239.0,Salzgitter,105.0,SSA,Konvertergas,52.1503721,10.3593147,Konventionell,Other
+Salzgitter-Hallendorf 1,Salzgitter Flachstahl GmbH,NI,38239.0,Salzgitter,110.0,HKW / IKW,Konvertergas,52.1503721,10.3593147,Konventionell,Other
+Salzgitter-Hallendorf 2,Salzgitter Flachstahl GmbH,NI,38239.0,Salzgitter,110.0,HKW / IKW,Konvertergas,52.1503721,10.3593147,Konventionell,Other
+Sandbank,Vattenfall Europe GmbH / Stadtwerke München,Offshore,,Nordsee,302.0,WEA,Wind (O),55.18324138795301,6.849860522131586,Erneuerbar,Vattenfall
+Schkopau A,Saale Energie GmbH,ST,6258.0,Korbetha,500.0,DKW,Braunkohle,51.4063129,11.9627599,Konventionell,Other
+Schkopau B,Saale Energie GmbH,ST,6258.0,Korbetha,500.0,DKW,Braunkohle,51.4063129,11.9627599,Konventionell,Other
+Schönewalde-Heidehof,Windpark Schönewalde-Heidehof GmbH,BB,4916.0,Schönewalde,235.8,WEA,Wind (L),51.8142338,13.2279131,Erneuerbar,Other
+Schornhof,Anumar GmbH / Statkraft Markets GmbH,BY,86562.0,Berg im Gau,120.0,PV,Licht,48.6360456,11.2448662,Erneuerbar,Other
+Schwarze Pumpe A,Lausitz Energie Kraftwerke AG (LEAG),BB,3130.0,Spremberg,803.0,DKW,Braunkohle,51.0337401,14.5444692,Konventionell,Other
+Schwarze Pumpe B,Lausitz Energie Kraftwerke AG (LEAG),BB,3130.0,Spremberg,803.0,DKW,Braunkohle,51.0337401,14.5444692,Konventionell,Other
+Schwarzheide,BASF Schwarzheide AG,BB,1987.0,Schwarzheide,187.4,GuD / GT / IKW,Erdgas,51.4858276,13.8306977,Konventionell,Other
+Schwedt 1,PCK Raffinerie GmbH,BB,16303.0,Schwedt,117.0,HKW,Ölrückstand,53.0586366,14.2840858,Konventionell,Other
+Schwedt 2,PCK Raffinerie GmbH,BB,16303.0,Schwedt,117.0,HKW,Ölrückstand,53.0586366,14.2840858,Konventionell,Other
+Schwedt 4 bis 6,PCK Raffinerie GmbH,BB,16303.0,Schwedt,129.0,HKW,Ölrückstand,53.0586366,14.2840858,Konventionell,Other
+Schwörstadt-Ryburg / Rhein,Energiedienst AG (EnBW),BW,79739.0,Ryburg-Schwörstadt,144.0,LWK,Wasser,47.5852784,7.8326884,Erneuerbar,EnBW
+Senftenberg I-III,Saferay GmbH / GP Joule GmbH / Solar Schipkau GmbH & Co. KG / Solar Meuro GmbH & Co. KG,BB,1968.0,Senftenberg,178.0,PV,Licht,51.535548603376114,13.96361090583626,Erneuerbar,Other
+Sindelfingen,Mercedes-Benz AG,BW,71059.0,Sindelfingen,174.1,HKW / GT,Erdgas,48.698079456432126,8.997185976765042,Konventionell,Other
+Sintfeld,Sintfeld REGO Strom GmbH / Windpark Meerhof GmbH,NW,33165.0,Lichtenau,371.3,WEA,Wind (L),51.6166977,8.8999978,Erneuerbar,Other
+Stade-Bützfleth,Dow Deutschland Anlagengesellschaft mbH,NI,21683.0,Stade,173.0,GuD / IKW,Erdgas,53.599794,9.475438,Konventionell,Other
+Staßfurt 1 u. 2,CIECH Energy Deutschland GmbH,ST,39418.0,Staßfurt,134.0,GuD / IKW,Erdgas,51.8514515,11.5929455,Konventionell,Other
+Staudinger 4 (Großkrotzenburg),Uniper SE,HE,63538.0,Großkrotzenburg,660.0,DKW,Erdgas,50.0826406,8.9837384,Konventionell,Eon
+Staudinger 5 (Großkrotzenburg),Uniper SE,HE,63538.0,Großkrotzenburg,553.0,HKW,Steinkohle,50.0826406,8.9837384,Konventionell,Eon
+Stößen-Teuchern,Enercon Windpark Stößen GmbH & Co. KG,ST,6667.0,Stößen,146.0,WEA,Wind (L),51.13443943245676,11.96086814458087,Erneuerbar,Other
+Stuttgart-Münster,EnBW Kraftwerke AG,BW,70376.0,Stuttgart,189.0,HKW / SSA,"Steinkohle, HEL, Abfall",48.7784485,9.1800132,Konventionell,EnBW
+Sülzetal,Betreibergesellschaft,ST,39171.0,Sülzetal,111.4,WEA,Wind (L),52.1592811,11.4891891,Erneuerbar,Other
+Templin-Groß Dölln,Photovoltaikkraftwerk Groß Dölln GmbH,BB,17268.0,Templin,128.4,PV,Licht,53.1193496,13.5005559,Erneuerbar,Other
+Thyrow A bis E,Lausitz Energie Kraftwerke AG (LEAG),BB,15806.0,Zossen,189.2,GT,Erdgas,52.2200321,13.462857403723646,Konventionell,Other
+Töging / Inn,Verbund Innkraftwerke GmbH,BY,84513.0,Töging,118.0,LWK,Wasser,48.2547192,12.5864967,Erneuerbar,Other
+Tramm-Göthen,LUXCARA Asset Management GmbH / Belectric GmbH,MV,19089.0,Tramm,172.0,PV,Licht,53.5210144,11.6444102,Erneuerbar,Other
+Uckermark,ENERTRAG AG,BB,17291.0,Bertikow,341.3,WEA,Wind (L),53.2442165,13.933023545115766,Erneuerbar,Other
+Veer Dörper,Bürgerwindpark Veer Dörper GmbH & Co.KG,SH,25862.0,Joldelund,100.0,WEA,Wind (L),54.6497452,9.1375357,Erneuerbar,Other
+Veja Mate,Veja Mate Offshore Project GmbH,Offshore,,Nordsee,402.0,WEA,Wind (O),55.7326722,8.311128391226891,Erneuerbar,Other
+Ville / Berrenrath (Hürth),RWE Power AG,NW,50354.0,Hürth,107.0,DKW,Braunkohle,50.8807379,6.876568,Konventionell,RWE
+Völklingen-Fenne HKV,Steag Power Saar GmbH,SL,66333.0,Völklingen-Fenne,236.0,HKW,Steinkohle,49.2471507,6.8833494,Konventionell,Other
+Völklingen-Fenne MKV,Steag Power Saar GmbH,SL,66333.0,Völklingen-Fenne,195.0,HKW,Steinkohle,49.2471507,6.8833494,Konventionell,Other
+Walchensee / Isar,Uniper SE,BY,82431.0,Kochel am See,125.6,SWK,Wasser,47.6531098,11.3631895,Erneuerbar,Eon
+Waldeck I / Eder,Uniper SE,HE,34549.0,Edertal,147.3,PSW,Wasser,51.1436159,9.1745488,Erneuerbar,Eon
+Waldeck II / Eder,Uniper SE,HE,34549.0,Edertal,480.0,PSW,Wasser,51.1436159,9.1745488,Erneuerbar,Eon
+Waldshut 1 bis 4,Schluchseewerk AG,BW,79761.0,Waldshut,176.0,PSW,Wasser,47.6246179,8.2120605,Erneuerbar,Other
+Walheim 1,EnBW Kraftwerke AG,BW,74399.0,Walheim,107.0,DKW,Steinkohle,49.0126104,9.1519563,Konventionell,EnBW
+Walheim 2,EnBW Kraftwerke AG,BW,74399.0,Walheim,160.0,DKW,Steinkohle,49.0126104,9.1519563,Konventionell,EnBW
+Walheim GT D,EnBW Kraftwerke AG,BW,74399.0,Walheim,143.0,GT,HEL,49.0126104,9.1519563,Konventionell,EnBW
+Wedel 1,Vattenfall Europe GmbH,SH,22880.0,Wedel,152.8,HKW,Steinkohle,53.5810226,9.7038772,Konventionell,Vattenfall
+Wedel 2,Vattenfall Europe GmbH,SH,22880.0,Wedel,133.6,HKW,Steinkohle,53.5810226,9.7038772,Konventionell,Vattenfall
+Wedel A und B,Vattenfall Europe GmbH,SH,22880.0,Wedel,102.0,GT,HEL,53.5810226,9.7038772,Konventionell,Vattenfall
+Weesow-Wilmersdorf,EnBW Solarpark Weesow-Willmersdorf GmbH / ALH-Gruppe,BB,16356.0,Werneuchen,187.0,PV,Licht,52.6334769,13.7340939,Erneuerbar,EnBW
+Wehr 1,Schluchseewerk AG,BW,79664.0,Wehr,248.0,PSW,Wasser,47.6286078,7.9046417,Erneuerbar,Other
+Wehr 2,Schluchseewerk AG,BW,79664.0,Wehr,248.0,PSW,Wasser,47.6286078,7.9046417,Erneuerbar,Other
+Wehr 3,Schluchseewerk AG,BW,79664.0,Wehr,248.0,PSW,Wasser,47.6286078,7.9046417,Erneuerbar,Other
+Wehr 4,Schluchseewerk AG,BW,79664.0,Wehr,248.0,PSW,Wasser,47.6286078,7.9046417,Erneuerbar,Other
+Weisweiler F (5),RWE Power AG,NW,52249.0,Eschweiler,361.0,DKW,Braunkohle,50.8175029,6.2630894,Konventionell,RWE
+Weisweiler G (6),RWE Power AG,NW,52249.0,Eschweiler,703.0,DKW,Braunkohle,50.8175029,6.2630894,Konventionell,RWE
+Weisweiler H (7),RWE Power AG,NW,52249.0,Eschweiler,696.0,DKW,Braunkohle,50.8175029,6.2630894,Konventionell,RWE
+Wesseling 1-5,Basell Polyolefine GmbH,NW,50389.0,Wesseling,199.0,G/AK / GT / IKW,"Erdgas, HS, Crackeröl",50.8247166,6.9810852,Konventionell,Other
+Wikinger,Iberdrola Renovables Deutschland GmbH,Offshore,,Ostsee,353.5,WEA,Wind (O),54.8127983468662,14.078075301394,Erneuerbar,Other
+Wilhelmshaven,Onyx Power GmbH / BKW FMB Energie / WSW Energie und Wasser AG,NI,26386.0,Wilhelmshaven,830.0,DKW,Steinkohle,53.5278793,8.106301,Konventionell,Other
+Wintershall,K+S KALI GmbH,HE,36266.0,Heringen,110.3,GuD / IKW,Erdgas,50.8870855,10.0078094,Konventionell,Other
+Witznau 1 bis 4,Schluchseewerk AG,BW,79777.0,Witznau,240.0,PSW,Wasser,47.67995155,8.254975729369594,Erneuerbar,Other
+Wolfsburg Nord/Süd GT 31/32,VW Kraftwerk GmbH,NI,38440.0,Wolfsburg,100.0,GT,Erdgas,52.4205588,10.7861682,Konventionell,Other
+Wolfsburg Nord/Süd GuD,VW Kraftwerk GmbH,NI,38440.0,Wolfsburg,136.0,GuD,Erdgas,52.4205588,10.7861682,Konventionell,Other
+Wolfsburg West 10,VW Kraftwerk GmbH,NI,38440.0,Wolfsburg,153.0,HKW / IKW,Steinkohle,52.4205588,10.7861682,Konventionell,Other
+Wolfsburg West 20,VW Kraftwerk GmbH,NI,38440.0,Wolfsburg,153.0,HKW / IKW,Steinkohle,52.4205588,10.7861682,Konventionell,Other
+Wolfsburg West 30 GuD 1,VW Kraftwerk GmbH,NI,38440.0,Wolfsburg,144.0,GuD / IKW,Erdgas,52.4205588,10.7861682,Konventionell,Other
+Wolfsburg West 30 GuD 2,VW Kraftwerk GmbH,NI,38440.0,Wolfsburg,144.0,GuD / IKW,Erdgas,52.4205588,10.7861682,Konventionell,Other
+Wörth,Palm Power GmbH & Co. KG (Papierfabrik),RP,76744.0,Wörth,151.0,GuD,Erdgas,49.0543232,8.2667399,Konventionell,Other
+Wuppertal-Barmen 1 u. 2,WSW Energie und Wasser AG,NW,42275.0,Wuppertal,151.0,GuD,"Erdgas, HEL",51.264018,7.1780374,Konventionell,Other
+Würzburg-Friedensbrücke GuD I/II,Heizkraftwerk Würzburg GmbH / StW Würzburg,BY,97080.0,Würzburg,151.0,GuD,Erdgas,49.7933723,9.9309779,Konventionell,Other
+Wybelsumer Polder,WWP GmbH,NI,26721.0,Emden,110.5,WEA,Wind (L),53.3670541,7.2058304,Erneuerbar,Other
+Zerbst Energiepark,Getec Green Energy AG,ST,39264.0,Zerbst,120.4,PV / WEA / Akku,Licht / Wind (L) / Batteriespeicher,51.96973975,12.07454635351719,Erneuerbar,Other
+Zolling-Leininger 5,Onyx Kraftwerk Zolling GmbH & Co.KGaA (Riverstone Holdings LLC),BY,85406.0,Zolling,501.0,HKW,Steinkohle,48.4514051,11.7727339,Konventionell,Other

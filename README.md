@@ -8,7 +8,10 @@ Containing two Projects which make up the course mark
   - [The Database](#the-database)
   - [The Code](#the-code)
   - [The Visualization](#the-visualization)
+    - [Describing the Visuals](#describing-the-visuals)
+    - [Interpreting the Visuals](#interpreting-the-visuals)
   - [The Answer](#the-answer)
+  - [The Conclusion](#the-conclusion)
 - [2. Electricity Price and its Suppliers in Germany](#2-electricity-price-and-its-suppliers-in-germany)
   - [Abstract](#abstract)
   - [Method](#method)
@@ -45,12 +48,39 @@ For further information about the underlying data please check [Face Recognition
 ## The Database
 The resulting Database from the project looked like this:
 
-![test_img](Data/readme_img/Bildschirmfoto%2024-05-03%um%15.41.55.png)
+![database](readme_img/Bildschirmfoto%202024-05-03%20um%2016.24.05.png)
 
+The row image path is just relevant for the name of the person i.e. their gender as well as the shown emotion. The *predicted* rows show the prediction the algorithm did when the test pictures were shown (neutral women and happy men). The prediction is then checked for accuracy, with the goal in mind that a "wrong" prediction is the preferred outcome, ideally showing a bias.
 
 ## The Code
+The code to create the visualization was written in python and run in a Jupyter Notebook. The used libraries were among other things:
+- pandas
+- numpy
+- wandb
+- Matplotlib
+- Seaborn
+- Plotly
+
+The import of the libraries looked like this:
+[Notebook with the Code](C_Assignment1.ipynb)
 ## The Visualization
+### Describing the Visuals
+The visuals show the following:
+1. The amount of Men and Women predicted as Happy or Neutral
+2. The predicted Gender (Men and Women) is split into the respective participants
+3. The correct predicted Gender over all test pictures (the prediction accuracy)
+4. Correlation between Incorrect and Correct predictions for Men and Women
+![Gender-Visuals_low-res](readme_img/Bildschirmfoto%202024-05-03%20um%2016.30.02.png)
+### Interpreting the Visuals
+The Visuals can be interpreted as such:
+1. More pictures of Men were tested compared to Women
+2. Men were always predicted right, compared to Women who were once predicted as Men
+3. Men were slightly more often miss predicted than women, in this case probably due to more training and testing data of men.
+4. Better understandable Version of Visual 3.
 ## The Answer
+Men get miss predicted about 10 % more than women, in one case a women even got predicted as a man. Therefore the face recognition algorithm developed a bias.
+## The Conclusion
+The visualized Data is not as clearly differentiable and therefore visually interpretable. This is on one hand due to an insufficient training of the algorithm and on the other hand due to a rather small testing size. To further improve the understanding of the visuals a deeper integration of interactivity is helpful.
 
 # 2. Electricity Price and its Suppliers in Germany
 ## Abstract
@@ -100,7 +130,8 @@ Not needed data was deleted, and not missing data, like the full name of an abbr
 ## Context
 To give some context to the data the following Questions are advised: *Who gathered it? When was it compiled? What methodology was used?*[1]
 
-These Questions are fairly easy to answer for the used data, since it's mostly from a government agency. SMARD accesses data from the Übertragungsnetzbetreiber (Transmission system operator) and ENTSO-E, Bundesnetzagentur also uses data from ENTSO-E but extends it with its own parameters, which it acquires directly from the Energy suppliers and other market participants.\
+These Questions are fairly easy to answer for the used data, since it's mostly from a government agency. SMARD accesses data from the Übertragungsnetzbetreiber (Transmission system operator) and ENTSO-E, Bundesnetzagentur also uses data from ENTSO-E but extends it with its own parameters, which it acquires directly from the Energy suppliers and other market participants.
+
 The data from SMARD is collected on an hourly basis on the basis of the German Energy Industry Act.
 
 ## Combining
@@ -120,41 +151,56 @@ This Chapter tries to answer the first Question:
 
 The used data is from Bundesnetzagentur and the StromAuskunft. [C][D]
 #### Price per state
+![price-per-state](readme_img/Bildschirmfoto%202024-05-03%20um%2016.33.36.png)
 
 
 #### Price per State (Map)
-
+![price-per-state_map](readme_img/Bildschirmfoto%202024-05-03%20um%2016.34.48.png)
 
 #### Amount and Type of power plant per state
-
+![Alt Text](readme_img/Bildschirmfoto%202024-05-03%20um%2016.35.54.png)
+The differentiation by the type of power plant does not help to understand why the prices are generally higher in *east*– states. Regarding conventional Plants, NRW has the most plants with a medium price while Thüringen has the least plants while having the highest price. But Bremen, with only four plants and the lowest price overall totally disproves the correlation or is only the exception for the explanation.
 
 #### Supplier Zones
-
+![Alt Text](readme_img/Bildschirmfoto%202024-05-03%20um%2016.39.04.png)
 
 ### Power Suppliers
-
+To further dissect the differences of the Power Suppliers and their correlation with the states, the installed electrical output, and how this all ties into the German energy market, the following chapters take a closer look at on how this all ties together.
 
 #### Power plants on the Map
+Keeping the amount of Power Plants in mind it is interesting to see where wich type of Power Plant is located.
+![plants-on-map](readme_img/Bildschirmfoto%202024-05-03%20um%2016.40.50.png)
 
 
 #### Marketshare per supplier
-
+The following plot takes a look at the size of the supplier by installed gross electrical output, 
+![marketshare-supplier](readme_img/Bildschirmfoto%202024-05-03%20um%2016.42.28.png)
 
 #### Plant Type per supplier
-
+To further understand the difference between the suppliers and the installed power plants regarding the gross capacity the following plot distinguishes between these points.
+As is visible in the plot below, RWE is the biggest supplier and therefore invested in multiple types of plants only to be trumped by EnBW with an even more diversified Plant portfolio. Vattenfall once again takes last place with the lowest amount of installed energy and the least diverse plant portfolio.
+![plant-type-supplier](readme_img/Bildschirmfoto%202024-05-03%20um%2016.43.31.png)
 
 #### Plant Type by supplier
-
+To further understand the size of each supplier regarding the type of plant the following visual 
+![plant-type-by-supplier](readme_img/Bildschirmfoto%202024-05-03%20um%2016.47.51.png)
 
 #### Capacity 2015 vs. 2024
+The price for one kWh nearly doubled from 2014 to 2024, how does this reflect in the type of power plant in service.
 
+As shown in the plot below, renewables increased significantly while conventional power plants nearly stayed the same with only small decreases.
+
+The most notable change besides the increase in PV and Wind Onshore is the nuclear phase-out 2023.
+![capacity-15-24](readme_img/Bildschirmfoto%202024-05-03%20um%2016.51.05.png)
 
 #### Type of Energy over time
+The type of produced energy changed over time. As shown in the plot below, the energy produced from conventional and renewable power plants over the timespan of 9 years (since the collection of these parameters). The energy produced from renewable sources steadily increased while conventional energy steadily decreased.
 
+![type-energy-oT](readme_img/Bildschirmfoto%202024-05-03%20um%2016.52.33.png)
 
 #### Production vs Consumption
-
-
+![production-consumption](readme_img/Bildschirmfoto%202024-05-03%20um%2016.53.40.png)
+The above visual shows that since the increase of installed renewable power plants, the realized production has exceeded the realized consumption. Therefore, Germany has exported electricity to other countries, and furthermore, the price for electricity decreased at the exchange. This trend will most likely continue and therefore lower the prices in general or at least enable dynamic prices even for consumers.
 ## Conclusion
 To conclude the two threads, analyzed in this report:
 
@@ -186,3 +232,4 @@ language = {Deutsch}<br />
 [C]-[Bundesnetzagentur](https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Versorgungssicherheit/Erzeugungskapazitaeten/Kraftwerksliste/start.html), last Access: 30.04.2024 <br />
 [D]-[StromAuskunft](https://www.stromauskunft.de/stromversorger/), last Access: 30.04.2024 <br />
 [I.]-[ShapeFile for Map](https://github.com/stepheneb/jsxgraph/tree/master), last Access: 30.04.2024 <br />
+All Visuals were created with the help of [ChatGPT](https://chatgpt.com) and various Models in [ChatArena](https://chat.lmsys.org), as was the code in DataPrep.ipynb

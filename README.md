@@ -45,6 +45,7 @@ For further information about the underlying data please check [Face Recognition
 ## The Database
 The resulting Database from the project looked like this:
 
+![test_img](Data/readme_img/Bildschirmfoto 2024-05-03 um 15.41.55.png)
 
 
 ## The Code
